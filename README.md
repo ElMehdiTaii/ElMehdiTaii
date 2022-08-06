@@ -10,10 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
     <a href="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet_core" width="40"
             height="40">
@@ -59,6 +55,9 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
             alt="xamarin" width="40" height="40" />
+    </a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
+            src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" ></img>
     </a>
 
 </p>
