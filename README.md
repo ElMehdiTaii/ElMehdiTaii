@@ -7,7 +7,6 @@
 <!-- STATS -->
 <a href="https://github.com/abs0luty/github-stats">
   <p align='center'>
-    <img width="40%" src="https://github.com/ElMehdiTaii/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-    <img width="40%" src="https://github.com/ElMehdiTaii/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElMehdiTaii&show_icons=true&theme=transparent)
   </p>
 </a>
